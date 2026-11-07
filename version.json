@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "notes": "Updates now arrive inside the app, a Back up to a file option, and Suggest a change after pairing with Dad's QR code.",
-  "apkUrl": "https://github.com/DangerPencil/my-planner-releases/releases/download/v1.2/MyPlanner-1.2.apk",
-  "sha256": "235ac7258addc9ec5294b2a5fb2275582bbeb2efede0a4596164ebfd26477804"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "notes": "New: Notes to Self. A separate list for things you want to remember, with no dates and no alerts. Find it on the To-dos screen in the new \"Notes to Self\" tab. Jot a quick note at the top or tap + for a longer one; tap a note to edit or delete it. Your notes are kept in your backups like everything else.",
+  "apkUrl": "https://github.com/DangerPencil/my-planner-releases/releases/download/v1.3/MyPlanner-1.3.apk",
+  "sha256": "7129f207f8308623c2537b78e7df4dd2a0fdff3d12b8c23c5246ac9b12351518"
 }
